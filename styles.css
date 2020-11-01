@@ -74,6 +74,13 @@ ul{
     outline: 0;
     transition: background-color 2s ease-out;
 }
+.alert{
+    text-align: center;
+    color: #fff;
+    background: #79C879;
+    margin-bottom: 10px;
+    display: none;
+}
 
 /*Large Screens Settings*/
 @media(min-width:700px){
